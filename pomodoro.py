@@ -22,7 +22,7 @@ def pomodoro(One_pomodori,short_brk,long_brk,duration,duration_count):
         duration = duration_count
         while duration > 0:
             print "%d min working..." % int(duration_count - duration)
-            time.sleep(1)
+            time.sleep(60)
             duration -= 1
 
         #short break

@@ -13,7 +13,7 @@ Python 2.x
 
 For sound notification, it is necessary to install <a href="http://sox.sourceforge.net/">sox</a>.
 
-$ sudo apt-get install sox libsox-fmt-all
+    $ sudo apt-get install sox libsox-fmt-all
 
 #### settings
 To change the default parameters, please see the parameters section at pomodoro.py.

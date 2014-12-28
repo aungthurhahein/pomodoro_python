@@ -19,6 +19,7 @@ $ sudo apt-get install sox libsox-fmt-all
 To change the default parameters, please see the parameters section at pomodoro.py.
 
 To change notification tone, put any mp3 files and replace with default files:
+
     * chime.mp3: short break tone
     * chime2.mp3: long breack tone
     * chime3.mp3: pomodori finished tone

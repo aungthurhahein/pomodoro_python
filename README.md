@@ -3,20 +3,22 @@
 This is a simple pomodoro timer written with Python 2.x and tested at debian system. 
 
 #### Usage
-python pomodoro.sh
+    python pomodoro.sh
 
-After 1 pomodori, it will ask for another cycle.
+After 1 pomodori, it will ask for the user to start another cycle.
+
+Before and after short and long break, it will give you a short notification tone if you are working away from termial.
 
 #### Requirements
 
-Python 2.x
+* Python 2.x
 
-For sound notification, it is necessary to install <a href="http://sox.sourceforge.net/">sox</a>.
+* For sound notification, it is necessary to install <a href="http://sox.sourceforge.net/">sox</a>.
 
     $ sudo apt-get install sox libsox-fmt-all
 
 #### settings
-To change the default parameters, please see the parameters section at pomodoro.py.
+To change the default parameters, please edit the *parameters* section at pomodoro.py file.
 
 To change notification tone, put any mp3 files and replace with default files:
 

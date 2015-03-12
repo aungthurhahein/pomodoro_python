@@ -53,7 +53,7 @@ def pomodoro(one_pomodori, short_brk, long_brk, duration, duration_count):
 
 def wrapper():
     pomodoro(One_pomodori, short_brk, long_brk, duration, duration_count)
-    call("play " + + chime_pomodoro, shell=True)
+    call("play " + chime_pomodoro, shell=True)
     print("A pomodori finished. Again?(y/n)")
 
     encore = raw_input(">")

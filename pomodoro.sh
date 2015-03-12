@@ -1,5 +1,5 @@
 #!/bin/bash
 # put this file at /bin
-python /home/$USER/pomodoro_python/pomodoro.py
+python /home/$USER/github/pomodoro_python/pomodoro.py
 
 

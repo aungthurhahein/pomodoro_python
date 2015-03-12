@@ -1,6 +1,6 @@
 ### Simple Terminal Pomodoro timer 
 
-This is a simple pomodoro timer written with Python 2.x and tested at debian system. 
+This is a simple pomodoro timer written with Python 2.x and tested at debian system.
 
 #### Usage
     python pomodoro.sh
@@ -23,7 +23,7 @@ To change the default parameters, please edit the *parameters* section at pomodo
 To change notification tone, put any mp3 files and replace with default files:
 
     * chime.mp3: short break tone
-    * chime2.mp3: long breack tone
+    * chime2.mp3: long break tone
     * chime3.mp3: pomodori finished tone
     
 #### Recommendation

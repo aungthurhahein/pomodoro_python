@@ -28,7 +28,9 @@ To change notification tone, put any mp3 files and replace with default files:
     
 #### Recommendation
 
-Clone this git at /home/user/ directory and put the pomodoro.sh wrapper to /bin directory.
+Clone this git at /home/user/ directory and put the pomodoro.sh wrapper to /bin directory and call it from terminal as 
+    
+    $ pomodoro.sh 
 
  
 

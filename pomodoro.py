@@ -60,9 +60,10 @@ def wrapper():
     if encore == "y":
         wrapper()
     elif encore == "n":
-        exit(0) # tada
+        exit(0)  # tada
     else:
         print "I dont't get that one.Try again"
 
 if __name__ == "__main__":
     wrapper()
+

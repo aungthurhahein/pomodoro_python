@@ -32,5 +32,9 @@ Clone this git at /home/user/ directory and put the pomodoro.sh wrapper to /bin 
     
     $ pomodoro.sh 
 
- 
+#### Extended work on this project
+
+It sends short and long breaks through twitter direct message channel.
+Take a look at https://github.com/akaes/Pomodoro/blob/master/readme_en_pomodoro_std.md
+  
 
